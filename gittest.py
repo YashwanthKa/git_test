@@ -1,8 +1,9 @@
 print("hello, I guess this is my 1st commit")
 
-print("just created a new branch_1")
+print("just created a new ## branch_2 ##")
 print("Assume that there are the lines that are about to get the changes")
-print("Lets go with error one")
+print("ERROR ONE RESLOVED")
+#most of the code is right from mergeCon_2
 print("this might be error for the mergeCon_2_1")
 print("this might be error for the mergeCon_2_2")
 print("this might be error for the mergeCon_2_3")
